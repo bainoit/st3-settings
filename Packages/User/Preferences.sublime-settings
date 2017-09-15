@@ -1,0 +1,9 @@
+{
+	"font_size": 11,
+	"ignored_packages":
+	[
+		"Package Control",
+		"Vintage"
+	],
+	"trim_trailing_white_space_on_save": true
+}

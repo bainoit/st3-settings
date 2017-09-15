@@ -15,3 +15,6 @@ Packages/User/*
 !Packages/User/*.sublime-keymap
 !Packages/User/*.sublime-settings
 !Packages/User/*.sublime-build
+
+# Ne pas oublier d'ou viennent les datas :
+# https://blog.smarchal.com/configurer-sublime-text-en-30-secondes-grace-a-git
